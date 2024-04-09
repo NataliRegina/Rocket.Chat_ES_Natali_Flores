@@ -43,6 +43,7 @@ After that, the token must be linked to the Header (postman), otherwise it will 
 API Test:
 
 X-Auth-Token: l1I0lwjpHyI-GbRtTywJrrpc7yAw9BVu5R8aqzcEwyL
+
 X-User-Id: qXSEBiJGED8f4nZuh
 
 1. Create a new user via an API endpoint (POST):
